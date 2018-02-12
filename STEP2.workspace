@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="STEP2" Database="" Version="10.0.0">
+  <Project Name="1-1basic" Path="1_basic/1_basic.project" Active="No"/>
+  <Project Name="1-2pointer_basic" Path="2_pointer_basic/2_pointer_basic.project" Active="No"/>
+  <Project Name="1-3ptr_ary" Path="3_ptr_ary/3_ptr_ary.project" Active="No"/>
+  <Project Name="1-4ptr_ary_value" Path="4_ptr_ary_value/4_ptr_ary_value.project" Active="No"/>
+  <Project Name="1-5format_p" Path="5_format_p/5_format_p.project" Active="No"/>
+  <Project Name="1-6pointer_ptr" Path="6_poiner_ptr/6_poiner_ptr.project" Active="No"/>
+  <Project Name="1-7ptr_ptr_str" Path="7_ptr_ptr_string/7_ptr_ptr_string.project" Active="No"/>
+  <Project Name="1-8pass_args" Path="8_pass_args/8_pass_args.project" Active="No"/>
+  <Project Name="dt2" Path="2_dt/2_dt.project" Active="No"/>
+  <Project Name="dt1" Path="1_dt/1_dt.project" Active="No"/>
+  <Project Name="1-9_generic_ptr" Path="9_generic_ptr/9_generic_ptr.project" Active="No"/>
+  <Project Name="dt3" Path="3_dt/3_dt.project" Active="No"/>
+  <Project Name="2-1generic_ptr_str" Path="10_generic_ptr_str/10_generic_ptr_str.project" Active="No"/>
+  <Project Name="2-2memory_alloc" Path="2-2memory_alloc/2-2memory_alloc.project" Active="No"/>
+  <Project Name="2-3malloc" Path="2-3malloc/2-3malloc.project" Active="No"/>
+  <Project Name="2-4malloc_calloc" Path="2-4malloc_calloc/2-4malloc_calloc.project" Active="No"/>
+  <Project Name="2-5realloc" Path="2-5realloc/2-5realloc.project" Active="No"/>
+  <Project Name="2-6ptr_incr" Path="2-6ptr_incr/2-6ptr_incr.project" Active="No"/>
+  <Project Name="2-7ptr_struct" Path="2-7ptr_struct/2-7ptr_struct.project" Active="No"/>
+  <Project Name="3-1single_link" Path="3-1single_link/3-1single_link.project" Active="No"/>
+  <Project Name="3-2double_lists" Path="3-2double_lists/3-2double_lists.project" Active="No"/>
+  <Project Name="3-3fnpointers" Path="3-3fnpointers/3-3fnpointers.project" Active="No"/>
+  <Project Name="settle" Path="settle/settle.project" Active="No"/>
+  <Project Name="strings" Path="strings/strings.project" Active="No"/>
+  <Project Name="4-1rema1" Path="4-1rema1/4-1rema1.project" Active="No"/>
+  <Project Name="4-2r2" Path="4-2r2/4-2r2.project" Active="No"/>
+  <Project Name="exercise" Path="exercise/exercise.project" Active="No"/>
+  <Project Name="ex1" Path="ex1/ex1.project" Active="No"/>
+  <Project Name="final" Path="final/final.project" Active="No"/>
+  <Project Name="getch" Path="getch/getch.project" Active="No"/>
+  <Project Name="4-3link1" Path="4-3link1/4-3link1.project" Active="No"/>
+  <Project Name="5-1double_linked_list" Path="5-1double_linked_list/5-1double_linked_list.project" Active="No"/>
+  <Project Name="ex1" Path="ex1/ex1.project" Active="No"/>
+  <Project Name="5-2ques" Path="5-2ques/5-2ques.project" Active="No"/>
+  <Project Name="pointers" Path="pointers/pointers.project" Active="No"/>
+  <Project Name="6-1ques" Path="6-1ques/6-1ques.project" Active="No"/>
+  <Project Name="2-darray" Path="2-darray/2-darray.project" Active="Yes"/>
+  <Project Name="2-d_struct" Path="2-d_struct/2-d_struct.project" Active="No"/>
+  <Project Name="6-str" Path="6-str/6-str.project" Active="No"/>
+  <Project Name="2-d_array" Path="2-d_array/2-d_array.project" Active="No"/>
+  <Project Name="bit-masking" Path="bit-masking/bit-masking.project" Active="No"/>
+  <Project Name="bit-masking1" Path="bit-masking1/bit-masking1.project" Active="No"/>
+  <Project Name="bit_operation" Path="bit_operation/bit_operation.project" Active="No"/>
+  <Project Name="bit_macro" Path="bit_macro/bit_macro.project" Active="No"/>
+  <Project Name="7-1macro1" Path="7-1macro1/7-1macro1.project" Active="No"/>
+  <Project Name="8-1pointee" Path="8-1pointee/8-1pointee.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1basic" ConfigName="Debug"/>
+      <Project Name="1-2pointer_basic" ConfigName="Debug"/>
+      <Project Name="1-3ptr_ary" ConfigName="Debug"/>
+      <Project Name="1-4ptr_ary_value" ConfigName="Debug"/>
+      <Project Name="1-5format_p" ConfigName="Debug"/>
+      <Project Name="1-6pointer_ptr" ConfigName="Debug"/>
+      <Project Name="1-7ptr_ptr_str" ConfigName="Debug"/>
+      <Project Name="1-8pass_args" ConfigName="Debug"/>
+      <Project Name="dt2" ConfigName="Debug"/>
+      <Project Name="dt1" ConfigName="Debug"/>
+      <Project Name="1-9_generic_ptr" ConfigName="Debug"/>
+      <Project Name="dt3" ConfigName="Debug"/>
+      <Project Name="2-1generic_ptr_str" ConfigName="Debug"/>
+      <Project Name="2-2memory_alloc" ConfigName="Debug"/>
+      <Project Name="2-3malloc" ConfigName="Debug"/>
+      <Project Name="2-4malloc_calloc" ConfigName="Debug"/>
+      <Project Name="2-5realloc" ConfigName="Debug"/>
+      <Project Name="2-6ptr_incr" ConfigName="Debug"/>
+      <Project Name="2-7ptr_struct" ConfigName="Debug"/>
+      <Project Name="3-1single_link" ConfigName="Debug"/>
+      <Project Name="3-2double_lists" ConfigName="Debug"/>
+      <Project Name="3-3fnpointers" ConfigName="Debug"/>
+      <Project Name="settle" ConfigName="Debug"/>
+      <Project Name="strings" ConfigName="Debug"/>
+      <Project Name="4-1rema1" ConfigName="Debug"/>
+      <Project Name="4-2r2" ConfigName="Debug"/>
+      <Project Name="exercise" ConfigName="Debug"/>
+      <Project Name="ex1" ConfigName="Debug"/>
+      <Project Name="final" ConfigName="Debug"/>
+      <Project Name="getch" ConfigName="Debug"/>
+      <Project Name="4-3link1" ConfigName="Debug"/>
+      <Project Name="5-1double_linked_list" ConfigName="Debug"/>
+      <Project Name="ex1" ConfigName="Debug"/>
+      <Project Name="5-2ques" ConfigName="Debug"/>
+      <Project Name="pointers" ConfigName="Debug"/>
+      <Project Name="6-1ques" ConfigName="Debug"/>
+      <Project Name="2-darray" ConfigName="Debug"/>
+      <Project Name="2-d_struct" ConfigName="Debug"/>
+      <Project Name="6-str" ConfigName="Debug"/>
+      <Project Name="2-d_array" ConfigName="Debug"/>
+      <Project Name="bit-masking" ConfigName="Debug"/>
+      <Project Name="bit-masking1" ConfigName="Debug"/>
+      <Project Name="bit_operation" ConfigName="Debug"/>
+      <Project Name="bit_macro" ConfigName="Debug"/>
+      <Project Name="7-1macro1" ConfigName="Debug"/>
+      <Project Name="8-1pointee" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1basic" ConfigName="Release"/>
+      <Project Name="1-2pointer_basic" ConfigName="Release"/>
+      <Project Name="1-3ptr_ary" ConfigName="Release"/>
+      <Project Name="1-4ptr_ary_value" ConfigName="Release"/>
+      <Project Name="1-5format_p" ConfigName="Release"/>
+      <Project Name="1-6pointer_ptr" ConfigName="Release"/>
+      <Project Name="1-7ptr_ptr_str" ConfigName="Release"/>
+      <Project Name="1-8pass_args" ConfigName="Release"/>
+      <Project Name="dt2" ConfigName="Release"/>
+      <Project Name="dt1" ConfigName="Release"/>
+      <Project Name="1-9_generic_ptr" ConfigName="Release"/>
+      <Project Name="dt3" ConfigName="Release"/>
+      <Project Name="2-1generic_ptr_str" ConfigName="Release"/>
+      <Project Name="2-2memory_alloc" ConfigName="Release"/>
+      <Project Name="2-3malloc" ConfigName="Release"/>
+      <Project Name="2-4malloc_calloc" ConfigName="Release"/>
+      <Project Name="2-5realloc" ConfigName="Release"/>
+      <Project Name="2-6ptr_incr" ConfigName="Release"/>
+      <Project Name="2-7ptr_struct" ConfigName="Release"/>
+      <Project Name="3-1single_link" ConfigName="Release"/>
+      <Project Name="3-2double_lists" ConfigName="Release"/>
+      <Project Name="3-3fnpointers" ConfigName="Release"/>
+      <Project Name="settle" ConfigName="Release"/>
+      <Project Name="strings" ConfigName="Release"/>
+      <Project Name="4-1rema1" ConfigName="Release"/>
+      <Project Name="4-2r2" ConfigName="Release"/>
+      <Project Name="exercise" ConfigName="Release"/>
+      <Project Name="ex1" ConfigName="Release"/>
+      <Project Name="final" ConfigName="Release"/>
+      <Project Name="getch" ConfigName="Release"/>
+      <Project Name="4-3link1" ConfigName="Release"/>
+      <Project Name="5-1double_linked_list" ConfigName="Release"/>
+      <Project Name="ex1" ConfigName="Release"/>
+      <Project Name="5-2ques" ConfigName="Release"/>
+      <Project Name="pointers" ConfigName="Release"/>
+      <Project Name="6-1ques" ConfigName="Release"/>
+      <Project Name="2-darray" ConfigName="Release"/>
+      <Project Name="2-d_struct" ConfigName="Release"/>
+      <Project Name="6-str" ConfigName="Release"/>
+      <Project Name="2-d_array" ConfigName="Release"/>
+      <Project Name="bit-masking" ConfigName="Release"/>
+      <Project Name="bit-masking1" ConfigName="Release"/>
+      <Project Name="bit_operation" ConfigName="Release"/>
+      <Project Name="bit_macro" ConfigName="Release"/>
+      <Project Name="7-1macro1" ConfigName="Release"/>
+      <Project Name="8-1pointee" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
